@@ -2,7 +2,10 @@
 Datasets:
 ARAS (Real-world data sets for Activity Recognition with Ambient Sensing)
 http://aras.cmpe.boun.edu.tr/
+
 from ARAS datasets Selected House A
+
+
 Pay Attention:
            To use this code, the reading part of the datasets must be changed
 
