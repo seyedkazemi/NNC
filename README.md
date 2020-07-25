@@ -1,8 +1,10 @@
 # NNC
 
 To make a final decision about the anomalies, we introduced the NNC which is composed of the five sub-NNCs each of these sub-NNCs increase the NNC by one unit when they detect any anomalies.
+
 Based on the 15 days we create a tool to compute the NNC from day 16 we start to compute the NNCs, and we compute the average NNC for last 15 days, and in the day that we want to check the anomaly, we compute the NNC if the variation of NNC of check day from average NNC of last 15 days is higher than 30% there is an anomaly in the behavior of the person.   
-in the following we define the sub-NNCs.
+
+
 Datasets:
 ARAS (Real-world data sets for Activity Recognition with Ambient Sensing)
 
